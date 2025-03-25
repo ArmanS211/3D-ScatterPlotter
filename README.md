@@ -1,4 +1,4 @@
-# 3D-ScatterPlotter
+# 3D Scatter Plotter
 A Processing application that can read excel files and generate a 3D Scatterplot based on the values within it. Includes options to customize visual makeup of the graph.
 
 ![scatterplot screenshot](https://github.com/user-attachments/assets/0788de4b-a86b-47b0-9a93-7d98a429a2a8)
